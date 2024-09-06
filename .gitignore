@@ -1,0 +1,3 @@
+# ignore Node_modules directry
+node_modules/
+# other intris
